@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image 
 import sys
 
 # Trong folder "img-hidden" tạo file "encrypt.py".
